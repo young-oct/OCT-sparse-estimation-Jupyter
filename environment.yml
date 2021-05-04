@@ -16,4 +16,4 @@ dependencies:
   
   - pip:
     - git+https://github.com/bwohlberg/sporco
-    - install pytictoc
+    - pytictoc
