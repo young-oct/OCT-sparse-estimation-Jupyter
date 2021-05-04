@@ -12,7 +12,8 @@ dependencies:
   - ffmpeg
   - tabulate
   - scikit-image
-  - pytictoc
+ 
   
   - pip:
     - git+https://github.com/bwohlberg/sporco
+    - pip install pytictoc
