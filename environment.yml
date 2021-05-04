@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - future
+  - numpy
+  - scipy
+  - imageio
+  - matplotlib
+  - pyfftw
+  - scikit-video
+  - ffmpeg
+  - tabulate
+  - scikit-image
+  
+  - pip:
+    - git+https://github.com/bwohlberg/sporco
